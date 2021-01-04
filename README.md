@@ -1,6 +1,8 @@
 # rdoraiswamy.github.io
 About Ramesh
 
+<img src="RD_Bw_001.jpg" alt="Ramesh Doraiswamy" width="100"/>
+
 ## Who is Ramesh?
 Engineering leader managing teams on integrated and strategic project delivery. 
 Managed software projects and complex delivery (PMP certified and well versed in Agile).
