@@ -15,11 +15,13 @@ Business Technology Strategist with people leadership, process expertise, and bu
 ## How would Ramesh accomplish these?
 Successfully led over 10 strategic enterprise technology implementations for diverse industries. Led teams of 30+ geographically dispersed, in-house and partner resources for Fortune 100 clients including GE, Seagate, Sony, Xerox, Western Digital, 24 Hour Fitness, Caterpillar, VeriFone, art.com. Built and led technology teams supporting the ERP systems with high availability and business continuity.
 
-MISSION: Building the RIGHT system, and building the system RIGHT
-VISION: Technology as a business strategy
-VALUES: People + Processes + Products = Results + Relationships + Retention 
+### MISSION: Building the RIGHT system, and building the system RIGHT
 
-## Learn more about Ramesh on LinkedIn
+### VISION: Technology as a business strategy
+
+### VALUES: People + Processes + Products = Results + Relationships + Retention 
+
+#### Learn more about Ramesh on LinkedIn
 
 [LinkedIn profile](https://www.linkedin.com/in/rameshdoraiswamy/)
 
